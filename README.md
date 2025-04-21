@@ -3,7 +3,7 @@
 ## Description
 This is a React-based web application that helps users discover indoor plants for their homes and workspaces. The app uses Google's Gemini API to provide personalized plant recommendations based on user preferences and existing plant collections. Users can search for plants, save their favorites, and get detailed care instructions.
 
-##Live Link
+## Live Link
 https://plant-recommendation-system-50k4yxrhe-kavya-dhyanis-projects.vercel.app/
 
 ## Features
